@@ -1,0 +1,12 @@
+.ant-layout-sider {
+    flex: none!important;
+    width: 400px!important;
+    max-width: none !important;
+    background: #f0f2f5 !important;
+}
+
+#box {
+    -webkit-box-shadow: 2px 2px 21px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 21px -6px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 21px -6px rgba(0,0,0,0.75);
+}
